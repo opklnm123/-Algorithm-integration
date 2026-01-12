@@ -1,3 +1,7 @@
 [submodule "build"]
 	path = build
 	url  = https://gitee.com/huhengyu/Algorithm-integration
+
+[submodule "framework"]
+	path = framework
+	url  = https://gitee.com/huhengyu/Algorithm-integration
