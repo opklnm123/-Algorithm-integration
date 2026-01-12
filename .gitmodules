@@ -13,3 +13,7 @@
 [submodule "data"]
 	path = data
 	url  = https://gitee.com/huhengyu/Algorithm-integration
+
+[submodule "models"]
+	path = models
+	url  = https://gitee.com/huhengyu/Algorithm-integration
