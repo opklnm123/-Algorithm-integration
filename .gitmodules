@@ -25,3 +25,7 @@
 [submodule "deploy"]
 	path = deploy
 	url  = https://gitee.com/huhengyu/Algorithm-integration
+
+[submodule "docs"]
+	path = docs
+	url  = https://gitee.com/huhengyu/Algorithm-integration
