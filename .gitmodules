@@ -5,3 +5,7 @@
 [submodule "framework"]
 	path = framework
 	url  = https://gitee.com/huhengyu/Algorithm-integration
+
+[submodule "algorithms"]
+	path = algorithms
+	url  = https://gitee.com/huhengyu/Algorithm-integration
