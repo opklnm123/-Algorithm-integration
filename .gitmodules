@@ -17,3 +17,7 @@
 [submodule "models"]
 	path = models
 	url  = https://gitee.com/huhengyu/Algorithm-integration
+
+[submodule "tests"]
+	path = tests
+	url  = https://gitee.com/huhengyu/Algorithm-integration
